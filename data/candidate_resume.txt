@@ -1,0 +1,45 @@
+ARUN 
+user@gmail.com|| +91 99999 99999 || Tamil Nadu,India || https://www.linkedin.com/in/arun/ || https://github.com/arun 
+ 
+ Qualification:
+ B.E. ECE in Bannari Amman Institute of Technology, Sathyamangalam, Tamil Nadu (2016-2020), Awarded
+ as “Best Outgoing Student of 2020 with Dr. R Subbayyan Gold Medal“
+ 
+ Major Projects:
+ ● Image classification using Transfer Learning: Able to classify the images based on the knowledge
+ from the pertained model rather than training from scratch. It is described in four steps such as data
+ preparation, feature extraction from the vgg16 model, training the custom layer and prediction.
+ Keywords: computer vision, vgg16, feature extraction, relu/sigmoid activation function, adam
+ optimizers, one-hot encoding.
+ ● Compute contextual similarity: Released the package in pypi to compute the similarity between two
+ sentences based on context. Each text based data are convert into the numerical representation
+ called vector of n dimension(varies based on bert variants) Keywords: nlp, bert and its variant,
+ similarity metrics (cosine, euclidean, manhattan, minkowski), pypi, linear algebra.
+ ● Next Sentence Prediction using LSTM: Designed a pipeline that trains with the huge corpus and
+ tries to predict the next word based on the corpus learned while the user types the input word
+ Keywords: nlp, LSTM, nltk.
+ ● Spam or Ham detection using various nlp techniques: Tries to predict whether the given mail is
+ spam or ham using word2vec, doc2vec, tf-idf, RNN and also created the comparative analysis
+ between these model accuracies. Keywords: nlp, word2vec, doc2vec, tf-idf ,RNN.
+ ● Language translation from english to tamil : Gathered the data for english to tamil languages and
+ developed a tool to translate the english to tamil language using transformers. Keywords: nlp,
+ transformers.
+ ● Image Generation using vanilla GAN: Generates the fake images based on the image we have
+ trained using the discriminator and generator concepts. Keyword: computer vision, GAN,
+ discriminator, generator
+ ● Model Agnostic Meta Learning: Technique to train the model faster to the new task with few steps
+ than the classic model training. Keywords: meta learning, maml.
+ ● Count push ups based on pose estimation: Developed a program that monitors the person and
+ estimates the pose of the person based on mediapipe. It counts and displays the number of pushups
+ taken by the person. Keywords: computer vision, mediapipe, pose estimation
+ ● Business card using AR: Created an application that scans an image target and renders the website,
+ images, videos and information to our profiles. Keywords: AR, unity
+ 
+ Designations Held:
+ ● Machine Learning Engineer at RFPIO Inc (Mar, 2023- Present)
+ ● Associate Machine Learning Engineer at RFPIO Inc (Nov 2020- Feb 2023)
+ ● Student Intern at RFPIO Inc (May 2020- Nov 2020)
+ 
+ Skills:
+ ● Python ● C ● C++ ●Embedded C ●HTML●JavaScript ● Keras ● PyTorch ● Tensorflow
+ ● Sklearn ● Flask ● SQL ● Ngrok ● Git ● Docker Boards: Arudino, Raspberry pi, node mcu.

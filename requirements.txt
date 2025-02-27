@@ -1,0 +1,6 @@
+crewai==0.102.0 
+crewai-tools==0.36.0 
+langchain-openai==0.2.14 
+langchain_chroma==0.2.2 
+docling==2.24.0
+python-dotenv

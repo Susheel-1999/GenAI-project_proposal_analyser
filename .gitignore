@@ -1,0 +1,9 @@
+# Ignore genai directory
+genai/
+__pycache__/
+chroma_data/
+db/
+
+# Ignore environment files
+.env
+
