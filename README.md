@@ -41,4 +41,4 @@ We utilize **four tools** to support this process:
 
 # Reference:
 crewai - https://docs.crewai.com/quickstart
-langchain - https://python.langchain.com/docs/introduction/
+<br>langchain - https://python.langchain.com/docs/introduction/
